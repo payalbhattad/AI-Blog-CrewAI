@@ -1,3 +1,4 @@
 venv/ 
-env/
-.env
+crewagent/env/
+crewagent/.env
+
